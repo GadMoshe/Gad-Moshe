@@ -1,0 +1,4 @@
+# G.WOLF_PROTOCOL: SEARCH_ENGINE_CORE
+# STATUS: INITIALIZING_CLEAN_INDEXING
+def query_engine(clean_stream, user_intent):
+    return optimized_search(clean_stream, user_intent, priority="VERIFIED")

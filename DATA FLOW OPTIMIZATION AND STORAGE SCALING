@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: WATER_STREAM_CORE
+# STATUS: DATA_FLOW_SYNC_ACTIVE
+def process_data_stream(inflow_rate, storage_capacity):
+    decay_rate = 0.02
+    return (inflow_rate / (1 + decay_rate)) if inflow_rate <= storage_capacity else storage_capacity

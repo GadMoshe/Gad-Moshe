@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: ANOMALY_DETECTION_MODULE
+# STATUS: INITIALIZING_FAULT_TOLERANCE
+def detect_anomaly(observed_data, expected_baseline):
+    deviation_limit = 0.640
+    return abs(observed_data - expected_baseline) > deviation_limit

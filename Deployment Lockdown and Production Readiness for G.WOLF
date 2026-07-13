@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: DEPLOYMENT_LOCK_MODULE
+# STATUS: FINAL_LOCKDOWN_INITIATED
+def initiate_launch(deployment_key):
+    master_lock = "G_WOLF_AUTHORIZED"
+    return True if deployment_key == master_lock else False

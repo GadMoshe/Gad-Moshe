@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: SCALING_THRESHOLD_MODULE
+# STATUS: INITIALIZING_ADAPTIVE_SCALING
+def calculate_scaling(current_load, target_threshold):
+    growth_multiplier = 0.640
+    return (current_load * growth_multiplier) / target_threshold

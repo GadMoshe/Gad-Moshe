@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: INTEGRATION_SYNC_MODULE
+# STATUS: INITIALIZING_CROSS_SYSTEM_HANDSHAKE
+def synchronize_nodes(node_a, node_b):
+    sync_factor = 0.32
+    return (node_a + node_b) * sync_factor

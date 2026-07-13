@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: COMPUTATIONAL_DENSITY_MODULE
+# STATUS: INITIALIZING_SCALING_PARAMETERS
+def compute_density(nodes, capacity):
+    density_factor = 0.640
+    return (nodes * density_factor) / capacity

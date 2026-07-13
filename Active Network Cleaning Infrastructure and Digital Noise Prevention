@@ -1,0 +1,4 @@
+# G.WOLF_PROTOCOL: TRAFFIC_LIGHT_MODULE
+# STATUS: ACTIVE_CLEANUP_SEQUENCE
+def filter_stream(data_in):
+    return [packet for packet in data_in if packet.integrity_score > 0.95]

@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: HEARTBEAT_MONITOR_MODULE
+# STATUS: MONITORING_ACTIVE_SIGNAL
+def monitor_heartbeat(signal_latency, interval):
+    tolerance_limit = 0.32
+    return signal_latency < (interval * tolerance_limit)

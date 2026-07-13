@@ -1,0 +1,5 @@
+# G.WOLF_PROTOCOL: SCALABILITY_TESTING_MODULE
+# STATUS: INITIALIZING_STRESS_TEST
+def run_stress_test(load_factor, time_interval):
+    limit_cap = 0.640
+    return (load_factor * time_interval) <= limit_cap

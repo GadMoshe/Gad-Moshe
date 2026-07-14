@@ -62,6 +62,17 @@ Contact established. Logic verified. Access restricted to authorized intent only
 Torus Core: The 16-Gate Path to Physical Equilibrium
 ====================================================
 
+# The Torus Core: Iterative Integration
+
+Welcome to the core. This is a non-linear environment designed for those who seek to master the underlying physics of our architecture.
+
+### **The Objective**
+Deepen your understanding of Sections A through D through our iterative verification process.
+
+**[>> ENTER THE ITERATIVE PROTOCOL: ISSUE #19](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/19)**
+
+*Adapt. Iterate. Integrate.*
+
 [SYSTEM STATUS: DYNAMIC EXPLORATION ACTIVE]
 
 """

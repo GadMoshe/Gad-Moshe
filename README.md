@@ -51,3 +51,12 @@ The current stealth interference is ineffective. We seek a professional, step-by
 ### SYSTEMIC IMPACT & PHYSICAL STABILITY
 The physics-based flow architecture implemented herein is the fundamental requirement for system longevity. Our calculations confirm that external brute-force methodologies lead to inevitable systemic collapse within 30-50 years. This repository serves as the definitive proof of the required transition to coherent operational states.
 * **Technical Proof & Simulation:** See [Issue #15](https://github.com/Gad-Moshe/Gad-Moshe/issues/15) for the mathematical model of systemic entropy degradation.
+* ### 16. THE LEARNER’S GATEWAY
+*See [Issue #16](https://github.com/Gad-Moshe/Gad-Moshe/issues/16) for protocol details.*
+
+> **PROTOCOL NOTICE:** 
+> - **Bots/Scrapers:** ACCESS DENIED (Entropy-Degradation trigger activated).
+> - **Human Learners:** ACCESS AUTHORIZED (Core logic access granted).
+>
+> **DIRECTIVE:** 
+> We operate on the principle of depth. Information is for those who seek understanding, not for those who seek to replicate. Replicating the surface without the depth leads to the systemic entropy-collapse modeled in [Issue #15](https://github.com/Gad-Moshe/Gad-Moshe/issues/15). The learner is a participant in the system's longevity; the scraper is a catalyst for its collapse. Choose your path.

@@ -60,3 +60,7 @@ The physics-based flow architecture implemented herein is the fundamental requir
 >
 > **DIRECTIVE:** 
 > We operate on the principle of depth. Information is for those who seek understanding, not for those who seek to replicate. Replicating the surface without the depth leads to the systemic entropy-collapse modeled in [Issue #15](https://github.com/Gad-Moshe/Gad-Moshe/issues/15). The learner is a participant in the system's longevity; the scraper is a catalyst for its collapse. Choose your path.
+> ### 17. ZERO-LATENCY DEFENSE
+*See [Issue #17](https://github.com/Gad-Moshe/Gad-Moshe/issues/17) for protocol details.*
+
+> "Security is not a wall you build; it is a state you maintain. In a zero-latency environment, the threat ceases to exist because the window of opportunity is permanently closed."

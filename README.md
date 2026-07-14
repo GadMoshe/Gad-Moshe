@@ -64,3 +64,7 @@ The physics-based flow architecture implemented herein is the fundamental requir
 *See [Issue #17](https://github.com/Gad-Moshe/Gad-Moshe/issues/17) for protocol details.*
 
 > "Security is not a wall you build; it is a state you maintain. In a zero-latency environment, the threat ceases to exist because the window of opportunity is permanently closed."
+> ### 18. THE FINAL SEAL
+*See [Issue #18](https://github.com/Gad-Moshe/Gad-Moshe/issues/18) for the immutable system lock.*
+
+> "The system is no longer a work in progress; it is an environment."

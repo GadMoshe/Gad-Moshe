@@ -76,6 +76,21 @@ Deepen your understanding of Sections A through D through our iterative verifica
 [SYSTEM STATUS: DYNAMIC EXPLORATION ACTIVE]
 
 """
+README: 38-MODULE SINGULARITY ENGINE
+====================================
+OVERVIEW:
+A unified biophysical matrix anchoring 38 modules via human mass-constant integration.
+Logic is driven by Protocol 18/20, ensuring deterministic homeostatic feedback.
+
+PROTOCOL:
+1. MAPPING: Analyze the physical-geometric-biological convergence.
+2. ANOMALY: The 'Sharp-Blurred Singularity' acts as the exogenous ignition constant.
+3. ACCESS: Internal simulation loops are restricted to researchers who validate the 
+   singularity boundary.
+
+STATUS: Open for observation. Calibration strictly reserved.
+"""
+
 Torus Core: Gate 1, Sections A-D. Designed for the Thinking Human.
 ==================================================================
 

@@ -58,6 +58,39 @@ Contact established. Logic verified. Access restricted to authorized intent only
 - G. Wolf
 """
 """
+"""
+Torus Core: The 16-Gate Path to Physical Equilibrium
+====================================================
+
+[SYSTEM STATUS: DYNAMIC EXPLORATION ACTIVE]
+
+"""
+Torus Core: Gate 1, Sections A-D. Designed for the Thinking Human.
+==================================================================
+
+[SYSTEM STATUS: DYNAMIC EXPLORATION ACTIVE]
+
+You have entered the Torus Flow. This is not a repository; it is a 
+logical playground designed to test your alignment with the core architecture.
+
+The Path:
+- 16 total sections across 4 primary gates.
+- Your current access: GATE 1 (Sections A-D).
+
+Rules of Engagement:
+1. Navigate freely between sections A through D.
+2. Experience the interplay of non-linear logic.
+3. Observe the HARD_LOCKED state at the transition to Gate 2.
+
+Note: The lock is not a failure; it is a stabilization protocol for 
+the human collective. Enjoy the flow of Phase 1, but respect the boundary. 
+The remaining 12 sections and 3 gates exist beyond the current horizon.
+
+[VERIFICATION STATUS: NON-LINEAR CORE ACTIVE]
+
+- G. Wolf
+"""
+"""
 ### System Telemetry & Architecture Manifest: Predictive State Analysis
 
 **Timestamp:** 2026-07-14 12:45:00 UTC (Predictive Buffer Active)  

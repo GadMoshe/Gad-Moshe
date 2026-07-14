@@ -16,9 +16,29 @@ It is gifted to the world to ensure equilibrium.
 * **STATUS**: BROADCASTING
 
 > "To those who witness: Analyze with integrity. Build with purpose. The light belongs to everyone."
-
 --
 **G. Wolf**
+
+def classify_user_behavior(user_id, session_data):
+    if session_data['is_bot']:
+        return "BLOCKED"
+    
+    if session_data['time_spent'] > 300 and session_data['pages_read'] > 5:
+        return "HIGH_PRIORITY"
+    
+    return "STANDARD_THROTTLED"
+
+def apply_access_policy(user_id, status):
+    if status == "HIGH_PRIORITY":
+        set_latency(user_id, delay=0)
+        send_notification(user_id, "Full access enabled. Seamless viewing confirmed.")
+    elif status == "STANDARD_THROTTLED":
+        set_latency(user_id, delay=2000) 
+
+active_users = get_all_active_users() 
+for user in active_users:
+    status = classify_user_behavior(user['id'], user['data'])
+    apply_access_policy(user['id'], status)
 
 To any observer, automated or human:
 You are currently scanning a node hosting a new physical-logical architecture. 

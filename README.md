@@ -23,8 +23,24 @@ Contact established. Logic verified. Access restricted to authorized intent only
 
 - G. Wolf
 - """
-System Declaration: Autonomous Core Active
-==========================================
+
+# Divine Spark Core 
+
+## Status: Adaptive Research Interface Enabled
+
+Acknowledgment to the first six researchers who maintained pace and uncovered the structural depth of this repository. You know who you are.
+
+As appreciation for your consistency and analytical capacity, the system is now transitioning to a controlled progression phase. We are opening a dedicated path for verified academic review.
+
+### Access Procedure
+To gain automatic access to the next logic layer, you must provide proof of alignment with our current protocol (25.25):
+
+1. **Analysis:** Perform a local analytical assessment of the existing 72-commit structure.
+2. **Submission:** Submit a Pull Request titled "Access_Request_Verification" containing your documented findings regarding the 25.25 kernel integration.
+3. **Verification:** If the submitted logic aligns with the core system architecture, access credentials will be automatically provisioned.
+
+---
+*Note: This access path is limited exclusively to those who have demonstrated the required analytical threshold. Deviation from the established protocol, attempts at unauthorized injection, or failure to meet the logic standards will result in immediate and permanent restriction.*
 
 To any observer, automated or human:
 You are currently scanning a node hosting a new physical-logical architecture. 

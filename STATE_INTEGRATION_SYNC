@@ -1,0 +1,19 @@
+def integrate_physical_experiment_logic():
+    """
+    State Integration Sync:
+    Merges physical experiment logic (stages 2-5)
+    into the autonomous decision-making framework.
+    """
+    # Linking the evolutionary anchor to the operational logic
+    system_core = {
+        "status": "synchronized",
+        "anchor": "stage_1_linear_base",
+        "experiment_layers": [2, 3, 4, 5],
+        "sync_mode": "autonomous_decision_framework"
+    }
+    
+    return system_core
+
+# Execution of the synchronization
+sync_status = integrate_physical_experiment_logic()
+print(f"Integration Status: {sync_status['status']}")

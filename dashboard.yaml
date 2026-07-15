@@ -1,0 +1,11 @@
+### [DASHBOARD] Operational Control & Status View
+dashboard_settings:
+  view: "command_bridge"
+  active_project: "system_sync"
+  status: "live_sync"
+  alert_level: "monitored"
+
+dashboard_controls:
+  protocol: "direct_sync"
+  access_mode: "authenticated_user"
+  sync_state: "locked_to_bridge"

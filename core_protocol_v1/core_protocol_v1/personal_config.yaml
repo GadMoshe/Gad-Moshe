@@ -1,0 +1,6 @@
+# Personal parameters for system-user sync
+user_interface:
+  device_alias: "Mobile_Command_Bridge"
+  sync_protocol: "active_push"
+  status_update_frequency: "real_time"
+  operational_mode: "individual_defense"

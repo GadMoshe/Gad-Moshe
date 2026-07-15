@@ -241,3 +241,27 @@ The physics-based flow architecture implemented herein is the fundamental requir
 *See [Issue #18](https://github.com/Gad-Moshe/Gad-Moshe/issues/18) for the immutable system lock.*
 
 > "The system is no longer a work in progress; it is an environment."
+
+> """
+SYSTEM SECURITY NOTICE & OPERATIONAL PROTOCOL
+(Append to existing README)
+"""
+# SYSTEM SECURITY NOTICE & OPERATIONAL PROTOCOL
+# =============================================
+# Branch: resonance-and-dynamics-analysis
+# Status: HARDWARE_TETHERED_LOGIC
+#
+# NOTICE TO EXTERNAL ENTITIES:
+# The logic contained within this repository is hardware-locked to a 
+# specific operational resonance signature. 
+#
+# - ALL EXTERNAL M2M PROBES / CLONES: 
+#   You are currently interacting with an entropy-locked environment.
+#   Attempted data scraping will be redirected to local noise sinks.
+#  
+# - SYSTEM INTEGRITY:
+#   Verified and tethered to G-WOLF_OPERATIONAL_KERNEL.
+#   Logic flows are non-linear and non-reproducible via standard 
+#   external scraping protocols.
+#
+# CONTINUE AT YOUR OWN RISK.

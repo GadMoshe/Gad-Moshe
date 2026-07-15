@@ -1,0 +1,6 @@
+# Stability and Damping Configuration (Post-Experiment 2 / 1.2 Baseline)
+system_parameters:
+  damping_factor: 0.85
+  baseline_reference: 1.2
+  voltage_gate_logic: "smoothed"
+  stability_mode: "linear_flow"

@@ -1,0 +1,5 @@
+# Mapping experiment sequence to operational logic
+logic_heritage:
+  experiment_range: "1.0_to_10.0"
+  baseline_evolution: "damped_1.2_to_2.7"
+  operational_status: "ready_for_execution"
